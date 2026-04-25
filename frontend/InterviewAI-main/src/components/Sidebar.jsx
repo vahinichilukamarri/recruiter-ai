@@ -11,8 +11,6 @@ import {
   ClipboardCheck,
   BarChart3,
   FileText,
-  Settings,
-  LogOut,
   ChevronLeft,
   ChevronRight,
   X,
@@ -172,7 +170,7 @@ function injectSidebarStyles() {
 /* ═══════════════════════════════════════════
    SIDEBAR COMPONENT
 ═══════════════════════════════════════════ */
-function Sidebar({ collapsed = false, onToggle = () => {} }) {
+function Sidebar({ collapsed = false, onToggle = () => {}, activeKey = "" }) {
   const navigate = useNavigate();
   const location = useLocation();
   const warned = useRef(false);
@@ -234,6 +232,7 @@ function Sidebar({ collapsed = false, onToggle = () => {} }) {
     ? `translateX(-${SIDEBAR_W_EXPANDED + 12}px)`
     : "translateX(0)";
 
+  // Navigation items - removed Settings and Logout
   const primaryNav = [
     { label: "Dashboard",       path: "/dashboard",       icon: LayoutDashboard },
     { label: "Candidates",      path: "/candidates",      icon: Users },
@@ -241,10 +240,6 @@ function Sidebar({ collapsed = false, onToggle = () => {} }) {
     { label: "Final Evaluated", path: "/final-evaluated", icon: ClipboardCheck },
     { label: "Analytics",       path: "/analytics",       icon: BarChart3 },
     { label: "Reports",         path: "/reports",         icon: FileText },
-  ];
-  const bottomNav = [
-    { label: "Settings", path: "/settings", icon: Settings },
-    { label: "Logout",   path: "/logout",   icon: LogOut, danger: true },
   ];
 
   const isActive = (path) =>
@@ -416,27 +411,6 @@ function Sidebar({ collapsed = false, onToggle = () => {} }) {
               collapsed={showCollapsed}
               onClick={() => navigate(item.path)} />
           ))}
-
-          {!showCollapsed && (
-            <div className="sb-label" style={{
-              fontSize: 10.5, fontWeight: 700, color: T.navy5,
-              textTransform: "uppercase", letterSpacing: ".08em",
-              padding: "18px 10px 10px",
-            }}>
-              Account
-            </div>
-          )}
-          {showCollapsed && (
-            <div style={{ height: 1, background: T.navy7, margin: "14px 10px" }} />
-          )}
-
-          {bottomNav.map((item) => (
-            <NavRow key={item.path}
-              item={item}
-              active={isActive(item.path)}
-              collapsed={showCollapsed}
-              onClick={() => navigate(item.path)} />
-          ))}
         </nav>
 
         {/* FOOTER */}
@@ -478,11 +452,6 @@ function Sidebar({ collapsed = false, onToggle = () => {} }) {
 /* ─── NAV ROW ─── */
 function NavRow({ item, active, collapsed, onClick }) {
   const Icon = item.icon;
-  const danger = item.danger;
-
-  const baseColor = danger ? T.error : T.navy2;
-  const activeColor = danger ? T.error : T.primary;
-  const activeBg = danger ? "#FEE2E2" : T.primaryLight;
 
   return (
     <div
@@ -499,8 +468,8 @@ function NavRow({ item, active, collapsed, onClick }) {
         marginBottom: 4,
         borderRadius: 10,
         cursor: "pointer",
-        background: active ? activeBg : "transparent",
-        color: active ? activeColor : baseColor,
+        background: active ? T.primaryLight : "transparent",
+        color: active ? T.primary : T.navy2,
         fontWeight: active ? 700 : 500,
         fontSize: 13.5,
         justifyContent: collapsed ? "center" : "flex-start",
@@ -511,7 +480,7 @@ function NavRow({ item, active, collapsed, onClick }) {
       <Icon
         className="sb-icon"
         size={18}
-        style={{ color: active ? activeColor : baseColor, flexShrink: 0 }}
+        style={{ color: active ? T.primary : T.navy2, flexShrink: 0 }}
       />
       {!collapsed && (
         <span className="sb-label" style={{

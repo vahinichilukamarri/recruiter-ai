@@ -4,8 +4,9 @@ import Desktop from "./pages/Desktop";
 import Dashboard from "./pages/Dashboard";
 import Candidates from "./pages/Candidates";
 import Interviews from "./pages/Interviews";
+import Analytics from "./pages/Analytics";
+import Reports from "./pages/Reports";
 import FinalEvaluated from "./pages/FinalEvaluated";
-//import Analytics from "./pages/Analytics";
 
 /*
   IMPORTANT: <Sidebar /> is rendered INSIDE each page (Dashboard, FinalEvaluated, etc.)
@@ -24,8 +25,9 @@ function App() {
       <Route path="/dashboard"        element={<Dashboard />} />
       <Route path="/candidates"       element={<Candidates />} />
       <Route path="/interviews"       element={<Interviews />} />
+      <Route path="/analytics"        element={<Analytics />} />
+      <Route path="/reports"          element={<Reports />} />
       <Route path="/final-evaluated"  element={<FinalEvaluated />} />
-      {/* <Route path="/analytics"      element={<Analytics />} /> */}
     </Routes>
   );
 }
