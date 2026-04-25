@@ -1,12 +1,11 @@
-"""
-Final decision endpoints with status filters.
-"""
+"""Final decision endpoints."""
 from typing import List
 from fastapi import APIRouter, Depends, Query
 from sqlalchemy.orm import Session
 
+import app.models as models
+import app.schemas as schemas
 from app.database import get_db
-from app import models, schemas
 
 router = APIRouter(prefix="/api/final-decisions", tags=["Final Decisions"])
 
@@ -15,18 +14,18 @@ def _by_decision(db: Session, dec: models.FinalDecisionEnum, skip: int, limit: i
     return (
         db.query(models.FinalDecision)
         .filter(models.FinalDecision.final_decision == dec)
-        .order_by(models.FinalDecision.decided_at.desc().nullslast(),
-                  models.FinalDecision.id.desc())
-        .offset(skip)
-        .limit(limit)
-        .all()
+        .order_by(
+            models.FinalDecision.decided_at.desc().nullslast(),
+            models.FinalDecision.id.desc(),
+        )
+        .offset(skip).limit(limit).all()
     )
 
 
 @router.get("", response_model=List[schemas.FinalDecisionOut])
 def list_all(
     db: Session = Depends(get_db),
-    human_only: bool = Query(False, description="Only return rows where human_final_decision is true"),
+    human_only: bool = Query(False),
     skip: int = Query(0, ge=0),
     limit: int = Query(500, ge=1, le=2000),
 ):

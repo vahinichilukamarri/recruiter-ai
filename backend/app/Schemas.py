@@ -1,14 +1,11 @@
-"""
-Pydantic schemas (request/response payloads).
-"""
+"""Pydantic v2 schemas (request and response payloads)."""
 from __future__ import annotations
 from datetime import datetime, date, time
-from typing import Optional, List
+from typing import Optional
 from pydantic import BaseModel, EmailStr, Field, ConfigDict
 
 
-# ───────────────────── CANDIDATES ─────────────────────
-
+# ───────── CANDIDATES ─────────
 class CandidateBase(BaseModel):
     full_name: str
     email: EmailStr
@@ -37,8 +34,7 @@ class CandidateOut(CandidateBase):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── ASSESSMENTS ─────────────────────
-
+# ───────── ASSESSMENTS ─────────
 class AssessmentOut(BaseModel):
     id: int
     candidate_id: int
@@ -55,8 +51,7 @@ class AssessmentOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── INTERVIEWS ─────────────────────
-
+# ───────── INTERVIEWS ─────────
 class InterviewOut(BaseModel):
     id: int
     candidate_id: int
@@ -71,8 +66,7 @@ class InterviewOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── FINAL DECISIONS ─────────────────────
-
+# ───────── FINAL DECISIONS ─────────
 class FinalDecisionOut(BaseModel):
     id: int
     candidate_id: int
@@ -84,8 +78,7 @@ class FinalDecisionOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── AGENT OUTPUTS ─────────────────────
-
+# ───────── AGENT OUTPUTS ─────────
 class AgentOutputOut(BaseModel):
     id: int
     candidate_id: int
@@ -99,8 +92,7 @@ class AgentOutputOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── HR FEEDBACK ─────────────────────
-
+# ───────── HR FEEDBACK ─────────
 class HRFeedbackBase(BaseModel):
     candidate_id: int
     agent_output_id: Optional[int] = None
@@ -123,8 +115,7 @@ class HRFeedbackOut(HRFeedbackBase):
     model_config = ConfigDict(from_attributes=True)
 
 
-# ───────────────────── ANALYTICS ─────────────────────
-
+# ───────── ANALYTICS ─────────
 class DashboardSummary(BaseModel):
     total_candidates: int
     total_selected: int
@@ -146,5 +137,5 @@ class BarBucket(BaseModel):
 
 
 class TrendPoint(BaseModel):
-    label: str   # ISO week-start date
+    label: str
     value: int

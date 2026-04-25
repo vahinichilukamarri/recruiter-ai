@@ -1,12 +1,11 @@
-"""
-HR feedback endpoints (read + create).
-"""
+"""HR feedback endpoints."""
 from typing import List
 from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 
+import app.models as models
+import app.schemas as schemas
 from app.database import get_db
-from app import models, schemas
 
 router = APIRouter(prefix="/api/hr-feedback", tags=["HR Feedback"])
 
@@ -20,9 +19,7 @@ def list_all(
     return (
         db.query(models.HRFeedback)
         .order_by(models.HRFeedback.id.desc())
-        .offset(skip)
-        .limit(limit)
-        .all()
+        .offset(skip).limit(limit).all()
     )
 
 

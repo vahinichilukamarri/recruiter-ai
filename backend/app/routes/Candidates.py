@@ -1,13 +1,12 @@
-"""
-Candidate CRUD endpoints.
-"""
+"""Candidate endpoints."""
 from typing import List, Optional
 from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 from sqlalchemy import or_
 
+import app.models as models
+import app.schemas as schemas
 from app.database import get_db
-from app import models, schemas
 
 router = APIRouter(prefix="/api/candidates", tags=["Candidates"])
 
@@ -53,28 +52,3 @@ def create_candidate(payload: schemas.CandidateCreate, db: Session = Depends(get
     db.commit()
     db.refresh(obj)
     return obj
-
-
-@router.put("/{candidate_id}", response_model=schemas.CandidateOut)
-def update_candidate(candidate_id: int, payload: schemas.CandidateUpdate, db: Session = Depends(get_db)):
-    obj = db.get(models.Candidate, candidate_id)
-    if not obj:
-        raise HTTPException(404, "Candidate not found")
-    data = payload.model_dump(exclude_unset=True)
-    if "email" in data and data["email"] != obj.email:
-        if db.query(models.Candidate).filter_by(email=data["email"]).first():
-            raise HTTPException(409, "Email already registered")
-    for k, v in data.items():
-        setattr(obj, k, v)
-    db.commit()
-    db.refresh(obj)
-    return obj
-
-
-@router.delete("/{candidate_id}", status_code=204)
-def delete_candidate(candidate_id: int, db: Session = Depends(get_db)):
-    obj = db.get(models.Candidate, candidate_id)
-    if not obj:
-        raise HTTPException(404, "Candidate not found")
-    db.delete(obj)
-    db.commit()

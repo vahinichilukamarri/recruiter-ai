@@ -1,6 +1,4 @@
-"""
-Application configuration loaded from environment variables.
-"""
+"""Application configuration loaded from .env"""
 import os
 from dotenv import load_dotenv
 
@@ -13,10 +11,9 @@ class Settings:
 
     DATABASE_URL: str = os.getenv(
         "DATABASE_URL",
-        "postgresql://postgres:password@localhost:5432/recruiter_ai",
+        "postgresql+psycopg://avnadmin:PASSWORD@HOST.aivencloud.com:PORT/defaultdb?sslmode=require",
     )
     ENV: str = os.getenv("ENV", "development")
-    CSV_DIR: str = os.getenv("CSV_DIR", "./csv")
 
     CORS_ORIGINS: list = [
         "http://localhost:3000",

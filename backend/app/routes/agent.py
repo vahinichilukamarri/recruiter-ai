@@ -1,12 +1,11 @@
-"""
-Agent (AI) output endpoints.
-"""
+"""Agent (AI) output endpoints."""
 from typing import List
 from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlalchemy.orm import Session
 
+import app.models as models
+import app.schemas as schemas
 from app.database import get_db
-from app import models, schemas
 
 router = APIRouter(prefix="/api/agent-output", tags=["Agent Outputs"])
 
@@ -20,9 +19,7 @@ def list_all(
     return (
         db.query(models.AgentOutput)
         .order_by(models.AgentOutput.id.desc())
-        .offset(skip)
-        .limit(limit)
-        .all()
+        .offset(skip).limit(limit).all()
     )
 
 

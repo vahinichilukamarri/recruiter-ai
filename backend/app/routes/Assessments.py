@@ -1,12 +1,11 @@
-"""
-Assessment endpoints.
-"""
+"""Assessment endpoints."""
 from typing import List
 from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlalchemy.orm import Session
 
+import app.models as models
+import app.schemas as schemas
 from app.database import get_db
-from app import models, schemas
 
 router = APIRouter(prefix="/api/assessments", tags=["Assessments"])
 
@@ -20,9 +19,7 @@ def list_assessments(
     return (
         db.query(models.Assessment)
         .order_by(models.Assessment.id.desc())
-        .offset(skip)
-        .limit(limit)
-        .all()
+        .offset(skip).limit(limit).all()
     )
 
 
