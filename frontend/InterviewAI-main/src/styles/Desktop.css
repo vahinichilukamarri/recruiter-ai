@@ -1,0 +1,169 @@
+/* src/pages/Desktop.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Main Desktop */
+.desktop {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  color: white;
+
+  background:
+    radial-gradient(circle at 25% 40%, rgba(28,48,140,0.45), transparent 35%),
+    radial-gradient(circle at 70% 45%, rgba(25,77,125,0.35), transparent 30%),
+    linear-gradient(90deg, #040a24 0%, #081436 35%, #08172b 70%, #04111f 100%);
+}
+
+/* Top Bar */
+.topbar {
+  height: 36px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.02);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 16px;
+}
+
+.brand {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.status {
+  display: flex;
+  gap: 18px;
+  font-size: 14px;
+  opacity: 0.92;
+}
+
+/* Desktop Icons */
+.desktop-icons {
+  padding: 28px 0 0 38px;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
+
+.desktop-icon {
+  width: 74px;
+  text-align: center;
+}
+
+.desktop-box {
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.05);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 10px;
+}
+
+.desktop-icon span {
+  font-size: 14px;
+}
+
+/* Dock */
+.dock {
+  position: absolute;
+  left: 50%;
+  bottom: 18px;
+  transform: translateX(-50%);
+
+  padding: 12px 16px;
+  border-radius: 26px;
+
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.12);
+  backdrop-filter: blur(18px);
+
+  box-shadow: 0 20px 50px rgba(0,0,0,0.35);
+}
+
+/* Dock Icons */
+.dock-icon {
+  width: 68px;
+  height: 68px;
+  border-radius: 18px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(255,255,255,0.16);
+  border: 1px solid rgba(255,255,255,0.12);
+
+  cursor: pointer;
+  position: relative;
+
+  transition: all 0.18s ease;
+}
+
+.dock-icon.active {
+  background: linear-gradient(135deg, #2a7fff, #43b8ff);
+  box-shadow: 0 0 24px rgba(67,184,255,0.45);
+}
+
+/* Tooltip */
+.tooltip {
+  position: absolute;
+  bottom: 84px;
+  background: rgba(0,0,0,0.72);
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 12px;
+  white-space: nowrap;
+
+  opacity: 0;
+  transform: translateY(8px);
+  transition: 0.2s ease;
+  pointer-events: none;
+}
+
+.dock-icon:hover .tooltip {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Help */
+.help-btn {
+  position: absolute;
+  right: 18px;
+  bottom: 14px;
+
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.1);
+
+  box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  cursor: pointer;
+}
