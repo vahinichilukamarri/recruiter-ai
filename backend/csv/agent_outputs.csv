@@ -1,0 +1,501 @@
+id,candidate_id,recommendation,confidence_score,strengths,concerns,summary,next_step,created_at
+1,1,Highly Recommended,96,Key skills identified: Problem Solving.,None,Agent summary for Keith Ross based on assessment metrics.,Move to final,2024-01-28 13:31:00
+2,2,Neutral,95,Key skills identified: Adaptability.,None,Agent summary for Kyle Simpson based on assessment metrics.,Move to final,2024-05-31 12:37:00
+3,3,Not Recommended,81,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Douglas Jimenez based on assessment metrics.,Move to final,2024-05-18 19:31:00
+4,4,Not Recommended,70,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Daniel Reynolds based on assessment metrics.,Secondary screening,2024-02-27 15:25:00
+5,5,Highly Recommended,98,Key skills identified: Adaptability.,None,Agent summary for Rose Lee based on assessment metrics.,Move to final,2024-03-01 10:52:00
+6,6,Highly Recommended,79,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Dylan Rivera based on assessment metrics.,Secondary screening,2024-05-06 19:31:00
+7,7,Neutral,72,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Terry Lee based on assessment metrics.,Secondary screening,2024-04-11 14:48:00
+8,8,Neutral,83,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Marilyn Russell based on assessment metrics.,Move to final,2024-04-16 11:48:00
+9,9,Highly Recommended,78,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Louis Anderson based on assessment metrics.,Secondary screening,2024-01-29 10:17:00
+10,10,Recommended,88,Key skills identified: Adaptability.,None,Agent summary for Pamela Hall based on assessment metrics.,Move to final,2024-05-11 13:44:00
+11,11,Not Recommended,60,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Shirley Walker based on assessment metrics.,Secondary screening,2024-06-03 09:24:00
+12,12,Recommended,63,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Sharon Long based on assessment metrics.,Secondary screening,2024-01-27 12:20:00
+13,13,Recommended,96,Key skills identified: Teamwork.,None,Agent summary for Elizabeth Myers based on assessment metrics.,Move to final,2024-03-22 11:40:00
+14,14,Highly Recommended,66,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Samuel Parker based on assessment metrics.,Secondary screening,2024-03-07 11:27:00
+15,15,Neutral,85,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Pamela Chavez based on assessment metrics.,Move to final,2024-02-13 13:59:00
+16,16,Highly Recommended,92,Key skills identified: Adaptability.,None,Agent summary for Lawrence Roberts based on assessment metrics.,Move to final,2024-03-21 12:20:00
+17,17,Highly Recommended,91,Key skills identified: Teamwork.,None,Agent summary for Carol Gutierrez based on assessment metrics.,Move to final,2024-04-17 09:26:00
+18,18,Not Recommended,77,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Julia Phillips based on assessment metrics.,Secondary screening,2024-03-13 15:19:00
+19,19,Recommended,99,Key skills identified: Adaptability.,None,Agent summary for Alexis Simpson based on assessment metrics.,Move to final,2024-05-30 08:11:00
+20,20,Not Recommended,95,Key skills identified: Teamwork.,None,Agent summary for Gerald Kim based on assessment metrics.,Move to final,2024-04-16 15:44:00
+21,21,Not Recommended,66,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Brian Ortiz based on assessment metrics.,Secondary screening,2024-05-27 10:55:00
+22,22,Highly Recommended,87,Key skills identified: Adaptability.,None,Agent summary for Nicholas Turner based on assessment metrics.,Move to final,2024-05-02 18:23:00
+23,23,Highly Recommended,95,Key skills identified: Problem Solving.,None,Agent summary for Karen Morris based on assessment metrics.,Move to final,2024-03-28 19:30:00
+24,24,Neutral,88,Key skills identified: Communication.,None,Agent summary for Mary Peterson based on assessment metrics.,Move to final,2024-06-02 10:24:00
+25,25,Not Recommended,94,Key skills identified: Problem Solving.,None,Agent summary for Elizabeth Gonzalez based on assessment metrics.,Move to final,2024-04-20 13:17:00
+26,26,Neutral,74,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Edward Robinson based on assessment metrics.,Secondary screening,2024-02-24 17:26:00
+27,27,Highly Recommended,79,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Aaron Lee based on assessment metrics.,Secondary screening,2024-01-12 17:02:00
+28,28,Not Recommended,71,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Peter Nelson based on assessment metrics.,Secondary screening,2024-04-25 12:38:00
+29,29,Highly Recommended,63,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Amanda Lewis based on assessment metrics.,Secondary screening,2024-01-26 13:31:00
+30,30,Recommended,88,Key skills identified: Problem Solving.,None,Agent summary for Dylan Lee based on assessment metrics.,Move to final,2024-06-02 09:32:00
+31,31,Recommended,86,Key skills identified: Problem Solving.,None,Agent summary for Harold Garcia based on assessment metrics.,Move to final,2024-03-16 10:08:00
+32,32,Recommended,65,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Arthur Jackson based on assessment metrics.,Secondary screening,2024-01-12 16:00:00
+33,33,Highly Recommended,68,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Helen Collins based on assessment metrics.,Secondary screening,2024-05-16 11:41:00
+34,34,Highly Recommended,74,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Amber Sullivan based on assessment metrics.,Secondary screening,2024-04-22 09:59:00
+35,35,Not Recommended,78,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Linda Phillips based on assessment metrics.,Secondary screening,2024-06-02 15:38:00
+36,36,Highly Recommended,83,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for James Martinez based on assessment metrics.,Move to final,2024-04-01 15:11:00
+37,37,Highly Recommended,98,Key skills identified: Adaptability.,None,Agent summary for Wayne White based on assessment metrics.,Move to final,2024-01-29 14:54:00
+38,38,Highly Recommended,60,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Stephanie Hall based on assessment metrics.,Secondary screening,2024-05-14 19:35:00
+39,39,Neutral,90,Key skills identified: Communication.,None,Agent summary for Teresa Martin based on assessment metrics.,Move to final,2024-05-26 09:47:00
+40,40,Recommended,82,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Nicholas Chavez based on assessment metrics.,Move to final,2024-01-18 13:30:00
+41,41,Recommended,91,Key skills identified: Communication.,None,Agent summary for Richard Howard based on assessment metrics.,Move to final,2024-03-18 12:34:00
+42,42,Highly Recommended,93,Key skills identified: Adaptability.,None,Agent summary for Nathan Robinson based on assessment metrics.,Move to final,2024-02-23 15:23:00
+43,43,Recommended,75,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Michael Price based on assessment metrics.,Secondary screening,2024-03-24 14:50:00
+44,44,Recommended,73,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Brittany Flores based on assessment metrics.,Secondary screening,2024-03-11 11:01:00
+45,45,Recommended,69,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for James Fisher based on assessment metrics.,Secondary screening,2024-05-25 15:38:00
+46,46,Highly Recommended,85,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Alexis Ortiz based on assessment metrics.,Move to final,2024-01-19 09:42:00
+47,47,Recommended,78,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Jonathan Wood based on assessment metrics.,Secondary screening,2024-04-24 17:19:00
+48,48,Highly Recommended,92,Key skills identified: Communication.,None,Agent summary for Angela Martin based on assessment metrics.,Move to final,2024-04-25 16:05:00
+49,49,Not Recommended,90,Key skills identified: Teamwork.,None,Agent summary for Alexander Ellis based on assessment metrics.,Move to final,2024-02-27 10:19:00
+50,50,Recommended,97,Key skills identified: Problem Solving.,None,Agent summary for Anna Patterson based on assessment metrics.,Move to final,2024-01-27 19:56:00
+51,51,Highly Recommended,67,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Roger Roberts based on assessment metrics.,Secondary screening,2024-03-26 12:30:00
+52,52,Highly Recommended,60,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Margaret Brown based on assessment metrics.,Secondary screening,2024-04-17 11:17:00
+53,53,Recommended,78,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Melissa Butler based on assessment metrics.,Secondary screening,2024-03-07 11:42:00
+54,54,Recommended,91,Key skills identified: Problem Solving.,None,Agent summary for Stephen Young based on assessment metrics.,Move to final,2024-02-07 14:08:00
+55,55,Neutral,68,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Alan Parker based on assessment metrics.,Secondary screening,2024-02-20 15:43:00
+56,56,Neutral,62,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Joshua Carter based on assessment metrics.,Secondary screening,2024-05-15 10:43:00
+57,57,Neutral,92,Key skills identified: Adaptability.,None,Agent summary for Lori Fisher based on assessment metrics.,Move to final,2024-01-27 09:45:00
+58,58,Neutral,78,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Daniel Henderson based on assessment metrics.,Secondary screening,2024-03-07 12:51:00
+59,59,Neutral,92,Key skills identified: Communication.,None,Agent summary for Sandra Nguyen based on assessment metrics.,Move to final,2024-02-03 14:31:00
+60,60,Highly Recommended,86,Key skills identified: Teamwork.,None,Agent summary for Sharon Kim based on assessment metrics.,Move to final,2024-05-19 17:35:00
+61,61,Neutral,85,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Sharon Hughes based on assessment metrics.,Move to final,2024-05-17 18:47:00
+62,62,Recommended,90,Key skills identified: Adaptability.,None,Agent summary for Louis Adams based on assessment metrics.,Move to final,2024-01-06 18:32:00
+63,63,Highly Recommended,95,Key skills identified: Problem Solving.,None,Agent summary for Jerry Flores based on assessment metrics.,Move to final,2024-05-25 13:36:00
+64,64,Highly Recommended,84,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Adam Hall based on assessment metrics.,Move to final,2024-04-01 15:11:00
+65,65,Neutral,83,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Kenneth Hernandez based on assessment metrics.,Move to final,2024-05-23 14:34:00
+66,66,Highly Recommended,80,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Zachary Gutierrez based on assessment metrics.,Secondary screening,2024-01-27 08:49:00
+67,67,Neutral,94,Key skills identified: Problem Solving.,None,Agent summary for Ethan Watson based on assessment metrics.,Move to final,2024-02-07 19:32:00
+68,68,Highly Recommended,62,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Kimberly Kelly based on assessment metrics.,Secondary screening,2024-04-20 17:34:00
+69,69,Recommended,62,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Steven Ortiz based on assessment metrics.,Secondary screening,2024-05-06 12:11:00
+70,70,Neutral,61,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Thomas Bryant based on assessment metrics.,Secondary screening,2024-01-22 14:43:00
+71,71,Highly Recommended,86,Key skills identified: Teamwork.,None,Agent summary for Kimberly Price based on assessment metrics.,Move to final,2024-02-26 19:53:00
+72,72,Not Recommended,85,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Bryan Bryant based on assessment metrics.,Move to final,2024-04-23 12:08:00
+73,73,Not Recommended,61,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Steven Alexander based on assessment metrics.,Secondary screening,2024-01-13 19:05:00
+74,74,Highly Recommended,86,Key skills identified: Problem Solving.,None,Agent summary for Kayla Powell based on assessment metrics.,Move to final,2024-02-10 10:43:00
+75,75,Neutral,98,Key skills identified: Communication.,None,Agent summary for Patrick Myers based on assessment metrics.,Move to final,2024-03-09 17:27:00
+76,76,Recommended,83,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Charles Jimenez based on assessment metrics.,Move to final,2024-02-18 10:15:00
+77,77,Neutral,89,Key skills identified: Teamwork.,None,Agent summary for Nicholas Reyes based on assessment metrics.,Move to final,2024-03-22 14:15:00
+78,78,Recommended,79,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Walter Alvarez based on assessment metrics.,Secondary screening,2024-05-25 16:11:00
+79,79,Neutral,87,Key skills identified: Problem Solving.,None,Agent summary for Anna Moreno based on assessment metrics.,Move to final,2024-01-15 17:43:00
+80,80,Not Recommended,69,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Lori Flores based on assessment metrics.,Secondary screening,2024-04-23 17:45:00
+81,81,Neutral,83,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Patrick Parker based on assessment metrics.,Move to final,2024-04-16 13:00:00
+82,82,Neutral,65,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Charles Mitchell based on assessment metrics.,Secondary screening,2024-03-11 17:07:00
+83,83,Recommended,97,Key skills identified: Communication.,None,Agent summary for Teresa Johnson based on assessment metrics.,Move to final,2024-03-16 12:28:00
+84,84,Highly Recommended,75,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Andrew Moreno based on assessment metrics.,Secondary screening,2024-04-29 18:39:00
+85,85,Neutral,91,Key skills identified: Teamwork.,None,Agent summary for Juan Kim based on assessment metrics.,Move to final,2024-05-01 12:57:00
+86,86,Recommended,91,Key skills identified: Problem Solving.,None,Agent summary for Jerry Cole based on assessment metrics.,Move to final,2024-02-05 17:57:00
+87,87,Not Recommended,87,Key skills identified: Problem Solving.,None,Agent summary for Diana Smith based on assessment metrics.,Move to final,2024-03-09 09:26:00
+88,88,Not Recommended,91,Key skills identified: Adaptability.,None,Agent summary for Jessica Lopez based on assessment metrics.,Move to final,2024-05-13 09:58:00
+89,89,Recommended,77,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Billy Ortiz based on assessment metrics.,Secondary screening,2024-01-07 19:37:00
+90,90,Recommended,95,Key skills identified: Communication.,None,Agent summary for Anthony Nelson based on assessment metrics.,Move to final,2024-05-04 14:32:00
+91,91,Neutral,99,Key skills identified: Problem Solving.,None,Agent summary for Nicole Wallace based on assessment metrics.,Move to final,2024-01-26 15:05:00
+92,92,Not Recommended,61,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Linda Henderson based on assessment metrics.,Secondary screening,2024-04-06 17:50:00
+93,93,Not Recommended,87,Key skills identified: Adaptability.,None,Agent summary for Helen Brooks based on assessment metrics.,Move to final,2024-01-28 19:10:00
+94,94,Highly Recommended,79,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Christopher Lee based on assessment metrics.,Secondary screening,2024-01-18 11:59:00
+95,95,Highly Recommended,77,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Nicholas Jenkins based on assessment metrics.,Secondary screening,2024-03-10 16:41:00
+96,96,Recommended,78,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Amanda Baker based on assessment metrics.,Secondary screening,2024-05-04 11:31:00
+97,97,Recommended,66,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Emily Kelly based on assessment metrics.,Secondary screening,2024-03-05 13:16:00
+98,98,Not Recommended,86,Key skills identified: Communication.,None,Agent summary for Mark Perez based on assessment metrics.,Move to final,2024-04-05 11:45:00
+99,99,Recommended,72,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Cynthia Diaz based on assessment metrics.,Secondary screening,2024-03-01 12:59:00
+100,100,Recommended,94,Key skills identified: Teamwork.,None,Agent summary for Elizabeth Parker based on assessment metrics.,Move to final,2024-01-14 10:51:00
+101,101,Not Recommended,84,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Ronald Cooper based on assessment metrics.,Move to final,2024-01-28 09:58:00
+102,102,Highly Recommended,78,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Sarah Lee based on assessment metrics.,Secondary screening,2024-04-12 18:07:00
+103,103,Highly Recommended,98,Key skills identified: Teamwork.,None,Agent summary for Arthur Campbell based on assessment metrics.,Move to final,2024-02-17 14:31:00
+104,104,Highly Recommended,94,Key skills identified: Adaptability.,None,Agent summary for Brandon Hernandez based on assessment metrics.,Move to final,2024-03-04 19:10:00
+105,105,Highly Recommended,72,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Mark Cooper based on assessment metrics.,Secondary screening,2024-02-02 10:30:00
+106,106,Neutral,84,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Kimberly Baker based on assessment metrics.,Move to final,2024-05-13 17:02:00
+107,107,Neutral,79,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Lawrence Patterson based on assessment metrics.,Secondary screening,2024-05-24 16:24:00
+108,108,Highly Recommended,85,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Jerry Wallace based on assessment metrics.,Move to final,2024-01-20 10:55:00
+109,109,Recommended,62,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Jacob Simpson based on assessment metrics.,Secondary screening,2024-04-09 11:09:00
+110,110,Highly Recommended,84,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Adam Wilson based on assessment metrics.,Move to final,2024-02-12 20:13:00
+111,111,Neutral,80,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Alan Hughes based on assessment metrics.,Secondary screening,2024-03-14 14:06:00
+112,112,Recommended,67,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Teresa Clark based on assessment metrics.,Secondary screening,2024-03-11 16:18:00
+113,113,Recommended,77,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Brian Parker based on assessment metrics.,Secondary screening,2024-04-05 10:15:00
+114,114,Neutral,69,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Zachary Allen based on assessment metrics.,Secondary screening,2024-05-13 18:39:00
+115,115,Highly Recommended,95,Key skills identified: Communication.,None,Agent summary for George Myers based on assessment metrics.,Move to final,2024-04-23 13:27:00
+116,116,Highly Recommended,92,Key skills identified: Adaptability.,None,Agent summary for Teresa Perry based on assessment metrics.,Move to final,2024-05-31 17:44:00
+117,117,Highly Recommended,83,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Henry Morales based on assessment metrics.,Move to final,2024-03-04 13:40:00
+118,118,Recommended,81,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Tiffany Turner based on assessment metrics.,Move to final,2024-04-29 14:50:00
+119,119,Highly Recommended,71,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Joseph Rivera based on assessment metrics.,Secondary screening,2024-04-25 18:52:00
+120,120,Neutral,60,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Rebecca Barnes based on assessment metrics.,Secondary screening,2024-03-01 18:42:00
+121,121,Highly Recommended,76,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Karen Moore based on assessment metrics.,Secondary screening,2024-03-29 18:01:00
+122,122,Not Recommended,70,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Frank Baker based on assessment metrics.,Secondary screening,2024-05-06 14:00:00
+123,123,Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Douglas Ross based on assessment metrics.,Move to final,2024-05-16 19:02:00
+124,124,Recommended,99,Key skills identified: Communication.,None,Agent summary for Jennifer Simmons based on assessment metrics.,Move to final,2024-04-16 15:32:00
+125,125,Highly Recommended,75,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Edward Edwards based on assessment metrics.,Secondary screening,2024-02-28 14:34:00
+126,126,Highly Recommended,78,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jose Taylor based on assessment metrics.,Secondary screening,2024-02-07 10:23:00
+127,127,Neutral,95,Key skills identified: Problem Solving.,None,Agent summary for Samuel Chavez based on assessment metrics.,Move to final,2024-05-01 14:49:00
+128,128,Neutral,74,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Walter Green based on assessment metrics.,Secondary screening,2024-03-26 17:40:00
+129,129,Not Recommended,84,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Justin Hamilton based on assessment metrics.,Move to final,2024-04-07 14:46:00
+130,130,Neutral,74,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Deborah Morgan based on assessment metrics.,Secondary screening,2024-01-28 16:50:00
+131,131,Highly Recommended,79,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Michelle Parker based on assessment metrics.,Secondary screening,2024-05-12 09:56:00
+132,132,Neutral,93,Key skills identified: Problem Solving.,None,Agent summary for Donna Anderson based on assessment metrics.,Move to final,2024-02-08 19:33:00
+133,133,Recommended,94,Key skills identified: Problem Solving.,None,Agent summary for Jennifer Rogers based on assessment metrics.,Move to final,2024-03-24 10:04:00
+134,134,Not Recommended,96,Key skills identified: Communication.,None,Agent summary for Lauren Wilson based on assessment metrics.,Move to final,2024-02-08 15:23:00
+135,135,Neutral,97,Key skills identified: Communication.,None,Agent summary for Robert Mendoza based on assessment metrics.,Move to final,2024-01-19 13:59:00
+136,136,Highly Recommended,82,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Kevin Torres based on assessment metrics.,Move to final,2024-03-18 12:19:00
+137,137,Not Recommended,99,Key skills identified: Communication.,None,Agent summary for Karen Morales based on assessment metrics.,Move to final,2024-05-16 09:50:00
+138,138,Not Recommended,78,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Teresa Sanchez based on assessment metrics.,Secondary screening,2024-05-13 14:24:00
+139,139,Neutral,88,Key skills identified: Adaptability.,None,Agent summary for Austin Jackson based on assessment metrics.,Move to final,2024-05-22 18:06:00
+140,140,Highly Recommended,64,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Juan Young based on assessment metrics.,Secondary screening,2024-05-13 16:55:00
+141,141,Highly Recommended,65,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Sharon Foster based on assessment metrics.,Secondary screening,2024-04-26 09:32:00
+142,142,Highly Recommended,94,Key skills identified: Teamwork.,None,Agent summary for Richard Gray based on assessment metrics.,Move to final,2024-06-02 09:14:00
+143,143,Highly Recommended,88,Key skills identified: Adaptability.,None,Agent summary for Frank Gray based on assessment metrics.,Move to final,2024-05-31 10:13:00
+144,144,Highly Recommended,72,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for James Wood based on assessment metrics.,Secondary screening,2024-03-01 14:48:00
+145,145,Highly Recommended,93,Key skills identified: Teamwork.,None,Agent summary for Stephen Reyes based on assessment metrics.,Move to final,2024-01-18 19:44:00
+146,146,Highly Recommended,63,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for George Edwards based on assessment metrics.,Secondary screening,2024-04-15 11:21:00
+147,147,Neutral,96,Key skills identified: Teamwork.,None,Agent summary for Keith Phillips based on assessment metrics.,Move to final,2024-05-15 12:56:00
+148,148,Not Recommended,82,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Juan Scott based on assessment metrics.,Move to final,2024-03-17 13:48:00
+149,149,Highly Recommended,73,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Brandon Alvarez based on assessment metrics.,Secondary screening,2024-03-18 15:13:00
+150,150,Recommended,66,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Deborah Romero based on assessment metrics.,Secondary screening,2024-04-29 12:30:00
+151,151,Not Recommended,82,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Linda Hayes based on assessment metrics.,Move to final,2024-03-25 16:11:00
+152,152,Not Recommended,80,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Cynthia Ward based on assessment metrics.,Secondary screening,2024-01-30 10:15:00
+153,153,Highly Recommended,78,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Brian Evans based on assessment metrics.,Secondary screening,2024-05-12 13:42:00
+154,154,Highly Recommended,68,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Jerry Hill based on assessment metrics.,Secondary screening,2024-01-31 10:37:00
+155,155,Not Recommended,65,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Danielle Sanders based on assessment metrics.,Secondary screening,2024-03-15 17:11:00
+156,156,Neutral,98,Key skills identified: Communication.,None,Agent summary for Keith Harris based on assessment metrics.,Move to final,2024-02-07 11:40:00
+157,157,Not Recommended,87,Key skills identified: Teamwork.,None,Agent summary for Austin Graham based on assessment metrics.,Move to final,2024-03-28 15:59:00
+158,158,Highly Recommended,86,Key skills identified: Adaptability.,None,Agent summary for Carl Carter based on assessment metrics.,Move to final,2024-03-17 12:04:00
+159,159,Highly Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Dylan Jimenez based on assessment metrics.,Move to final,2024-05-31 09:56:00
+160,160,Highly Recommended,80,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Sean Long based on assessment metrics.,Secondary screening,2024-02-08 17:31:00
+161,161,Recommended,92,Key skills identified: Adaptability.,None,Agent summary for Ashley Barnes based on assessment metrics.,Move to final,2024-01-12 09:11:00
+162,162,Neutral,68,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Walter Hall based on assessment metrics.,Secondary screening,2024-03-02 19:12:00
+163,163,Not Recommended,93,Key skills identified: Teamwork.,None,Agent summary for Doris Bailey based on assessment metrics.,Move to final,2024-02-08 14:42:00
+164,164,Highly Recommended,99,Key skills identified: Teamwork.,None,Agent summary for Mary Romero based on assessment metrics.,Move to final,2024-02-01 08:49:00
+165,165,Neutral,65,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Jonathan Baker based on assessment metrics.,Secondary screening,2024-01-11 11:34:00
+166,166,Recommended,78,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Amy Jimenez based on assessment metrics.,Secondary screening,2024-01-08 09:45:00
+167,167,Recommended,64,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Douglas Cox based on assessment metrics.,Secondary screening,2024-04-07 13:00:00
+168,168,Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Natalie Gomez based on assessment metrics.,Move to final,2024-02-13 15:02:00
+169,169,Highly Recommended,78,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Frank Miller based on assessment metrics.,Secondary screening,2024-04-12 12:56:00
+170,170,Recommended,67,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Paul Ramos based on assessment metrics.,Secondary screening,2024-04-02 16:39:00
+171,171,Neutral,62,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Mary Ramirez based on assessment metrics.,Secondary screening,2024-05-03 17:40:00
+172,172,Highly Recommended,65,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Terry Jones based on assessment metrics.,Secondary screening,2024-02-19 08:56:00
+173,173,Neutral,76,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Gregory Williams based on assessment metrics.,Secondary screening,2024-05-01 12:05:00
+174,174,Not Recommended,90,Key skills identified: Adaptability.,None,Agent summary for George Barnes based on assessment metrics.,Move to final,2024-04-25 14:23:00
+175,175,Highly Recommended,93,Key skills identified: Communication.,None,Agent summary for Gerald Stewart based on assessment metrics.,Move to final,2024-05-31 11:48:00
+176,176,Not Recommended,98,Key skills identified: Teamwork.,None,Agent summary for Angela Garcia based on assessment metrics.,Move to final,2024-04-29 10:55:00
+177,177,Neutral,77,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Ryan Vasquez based on assessment metrics.,Secondary screening,2024-01-26 11:50:00
+178,178,Neutral,61,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Alexander Garcia based on assessment metrics.,Secondary screening,2024-04-22 14:50:00
+179,179,Not Recommended,63,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Stephen Moore based on assessment metrics.,Secondary screening,2024-04-03 08:34:00
+180,180,Recommended,86,Key skills identified: Adaptability.,None,Agent summary for Karen Flores based on assessment metrics.,Move to final,2024-04-18 11:44:00
+181,181,Not Recommended,76,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Eugene Carter based on assessment metrics.,Secondary screening,2024-01-31 12:28:00
+182,182,Neutral,67,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Dylan Romero based on assessment metrics.,Secondary screening,2024-04-08 09:56:00
+183,183,Recommended,65,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Arthur Alexander based on assessment metrics.,Secondary screening,2024-03-23 14:07:00
+184,184,Not Recommended,62,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Jeremy Powell based on assessment metrics.,Secondary screening,2024-04-24 12:04:00
+185,185,Not Recommended,90,Key skills identified: Adaptability.,None,Agent summary for Jerry Sanders based on assessment metrics.,Move to final,2024-05-30 15:18:00
+186,186,Highly Recommended,70,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Kathleen Russell based on assessment metrics.,Secondary screening,2024-03-10 11:43:00
+187,187,Not Recommended,69,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jonathan Gutierrez based on assessment metrics.,Secondary screening,2024-01-05 12:00:00
+188,188,Not Recommended,61,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Richard Ruiz based on assessment metrics.,Secondary screening,2024-05-13 10:54:00
+189,189,Highly Recommended,60,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Anna White based on assessment metrics.,Secondary screening,2024-02-26 14:17:00
+190,190,Not Recommended,90,Key skills identified: Teamwork.,None,Agent summary for Brian Harris based on assessment metrics.,Move to final,2024-01-19 18:09:00
+191,191,Neutral,65,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Nancy Castillo based on assessment metrics.,Secondary screening,2024-02-02 14:09:00
+192,192,Recommended,97,Key skills identified: Communication.,None,Agent summary for Ethan Miller based on assessment metrics.,Move to final,2024-05-06 13:03:00
+193,193,Not Recommended,68,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Jeffrey Ruiz based on assessment metrics.,Secondary screening,2024-02-16 18:59:00
+194,194,Neutral,64,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Eugene Gibson based on assessment metrics.,Secondary screening,2024-02-23 12:54:00
+195,195,Not Recommended,73,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Gerald Gonzales based on assessment metrics.,Secondary screening,2024-02-19 17:50:00
+196,196,Highly Recommended,82,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Brittany Sanders based on assessment metrics.,Move to final,2024-02-23 19:18:00
+197,197,Recommended,89,Key skills identified: Problem Solving.,None,Agent summary for Jerry Stewart based on assessment metrics.,Move to final,2024-03-27 13:23:00
+198,198,Recommended,67,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Eric Coleman based on assessment metrics.,Secondary screening,2024-03-07 18:28:00
+199,199,Highly Recommended,91,Key skills identified: Problem Solving.,None,Agent summary for Austin Gonzalez based on assessment metrics.,Move to final,2024-03-05 15:39:00
+200,200,Neutral,72,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Cynthia West based on assessment metrics.,Secondary screening,2024-04-03 11:04:00
+201,201,Not Recommended,61,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Donna Ross based on assessment metrics.,Secondary screening,2024-02-16 17:29:00
+202,202,Recommended,76,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Pamela Ramirez based on assessment metrics.,Secondary screening,2024-05-31 19:55:00
+203,203,Neutral,93,Key skills identified: Communication.,None,Agent summary for Donald Hall based on assessment metrics.,Move to final,2024-03-03 09:02:00
+204,204,Not Recommended,85,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Jason Nguyen based on assessment metrics.,Move to final,2024-05-16 11:45:00
+205,205,Not Recommended,91,Key skills identified: Problem Solving.,None,Agent summary for Ashley Jackson based on assessment metrics.,Move to final,2024-03-30 12:50:00
+206,206,Recommended,95,Key skills identified: Adaptability.,None,Agent summary for Helen Watson based on assessment metrics.,Move to final,2024-04-06 12:25:00
+207,207,Recommended,91,Key skills identified: Teamwork.,None,Agent summary for Donald Bryant based on assessment metrics.,Move to final,2024-02-19 19:47:00
+208,208,Highly Recommended,84,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Daniel Hayes based on assessment metrics.,Move to final,2024-05-15 17:46:00
+209,209,Not Recommended,98,Key skills identified: Problem Solving.,None,Agent summary for Gerald Fisher based on assessment metrics.,Move to final,2024-05-20 18:44:00
+210,210,Neutral,72,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Mark Cruz based on assessment metrics.,Secondary screening,2024-02-17 13:36:00
+211,211,Not Recommended,65,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Danielle Moreno based on assessment metrics.,Secondary screening,2024-02-01 19:15:00
+212,212,Not Recommended,64,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Dorothy Jimenez based on assessment metrics.,Secondary screening,2024-01-15 18:12:00
+213,213,Highly Recommended,79,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Eugene White based on assessment metrics.,Secondary screening,2024-03-13 19:24:00
+214,214,Not Recommended,71,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Frank Wilson based on assessment metrics.,Secondary screening,2024-05-10 20:45:00
+215,215,Not Recommended,61,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Joshua Rivera based on assessment metrics.,Secondary screening,2024-01-31 18:32:00
+216,216,Not Recommended,64,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Jacob Cole based on assessment metrics.,Secondary screening,2024-04-19 08:45:00
+217,217,Neutral,98,Key skills identified: Problem Solving.,None,Agent summary for Ronald Davis based on assessment metrics.,Move to final,2024-04-20 19:04:00
+218,218,Recommended,80,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Sarah Taylor based on assessment metrics.,Secondary screening,2024-03-14 14:49:00
+219,219,Highly Recommended,93,Key skills identified: Problem Solving.,None,Agent summary for Juan Ward based on assessment metrics.,Move to final,2024-03-23 08:16:00
+220,220,Recommended,99,Key skills identified: Teamwork.,None,Agent summary for Susan Reed based on assessment metrics.,Move to final,2024-02-08 12:46:00
+221,221,Recommended,87,Key skills identified: Adaptability.,None,Agent summary for Robert Jackson based on assessment metrics.,Move to final,2024-03-27 13:38:00
+222,222,Neutral,75,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Louis Robinson based on assessment metrics.,Secondary screening,2024-06-02 14:59:00
+223,223,Not Recommended,69,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Douglas Kelly based on assessment metrics.,Secondary screening,2024-03-20 11:11:00
+224,224,Recommended,61,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Andrew Campbell based on assessment metrics.,Secondary screening,2024-05-09 11:17:00
+225,225,Highly Recommended,86,Key skills identified: Communication.,None,Agent summary for Cynthia Harris based on assessment metrics.,Move to final,2024-04-02 12:03:00
+226,226,Highly Recommended,65,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Doris Price based on assessment metrics.,Secondary screening,2024-02-08 15:32:00
+227,227,Not Recommended,64,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Richard Evans based on assessment metrics.,Secondary screening,2024-01-17 11:51:00
+228,228,Not Recommended,67,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Bryan Peterson based on assessment metrics.,Secondary screening,2024-06-01 16:16:00
+229,229,Not Recommended,92,Key skills identified: Problem Solving.,None,Agent summary for Lawrence Johnson based on assessment metrics.,Move to final,2024-04-16 10:57:00
+230,230,Highly Recommended,60,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Cynthia Garcia based on assessment metrics.,Secondary screening,2024-04-28 16:06:00
+231,231,Recommended,68,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Gerald Stewart based on assessment metrics.,Secondary screening,2024-01-17 19:19:00
+232,232,Neutral,81,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Scott Hall based on assessment metrics.,Move to final,2024-02-17 18:42:00
+233,233,Recommended,69,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Alexis Diaz based on assessment metrics.,Secondary screening,2024-05-24 19:48:00
+234,234,Highly Recommended,77,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Lawrence Johnson based on assessment metrics.,Secondary screening,2024-05-31 11:14:00
+235,235,Neutral,93,Key skills identified: Communication.,None,Agent summary for Anna Torres based on assessment metrics.,Move to final,2024-06-01 11:56:00
+236,236,Neutral,66,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Jordan Phillips based on assessment metrics.,Secondary screening,2024-01-15 13:17:00
+237,237,Highly Recommended,70,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Gerald Gibson based on assessment metrics.,Secondary screening,2024-05-08 17:38:00
+238,238,Not Recommended,87,Key skills identified: Teamwork.,None,Agent summary for Nancy Wood based on assessment metrics.,Move to final,2024-02-04 11:29:00
+239,239,Highly Recommended,81,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Nathan Rivera based on assessment metrics.,Move to final,2024-02-20 14:16:00
+240,240,Not Recommended,88,Key skills identified: Communication.,None,Agent summary for Natalie Robinson based on assessment metrics.,Move to final,2024-05-18 11:09:00
+241,241,Recommended,65,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Teresa Bennett based on assessment metrics.,Secondary screening,2024-03-24 18:28:00
+242,242,Recommended,87,Key skills identified: Communication.,None,Agent summary for Jennifer Ruiz based on assessment metrics.,Move to final,2024-04-17 10:13:00
+243,243,Not Recommended,89,Key skills identified: Adaptability.,None,Agent summary for Amber Parker based on assessment metrics.,Move to final,2024-05-20 15:50:00
+244,244,Neutral,73,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Jessica Fisher based on assessment metrics.,Secondary screening,2024-01-09 09:04:00
+245,245,Neutral,85,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Keith Richardson based on assessment metrics.,Move to final,2024-02-04 08:59:00
+246,246,Recommended,94,Key skills identified: Communication.,None,Agent summary for Julia Morgan based on assessment metrics.,Move to final,2024-02-18 12:44:00
+247,247,Neutral,62,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Doris Brooks based on assessment metrics.,Secondary screening,2024-04-29 15:46:00
+248,248,Not Recommended,75,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Barbara Thomas based on assessment metrics.,Secondary screening,2024-05-14 18:57:00
+249,249,Highly Recommended,74,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Ashley Cook based on assessment metrics.,Secondary screening,2024-04-11 16:54:00
+250,250,Recommended,89,Key skills identified: Teamwork.,None,Agent summary for Emma Castillo based on assessment metrics.,Move to final,2024-05-08 14:57:00
+251,251,Highly Recommended,88,Key skills identified: Communication.,None,Agent summary for Raymond Baker based on assessment metrics.,Move to final,2024-01-14 16:34:00
+252,252,Not Recommended,83,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Noah Brooks based on assessment metrics.,Move to final,2024-03-03 18:38:00
+253,253,Neutral,63,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Ashley Jones based on assessment metrics.,Secondary screening,2024-05-06 14:35:00
+254,254,Not Recommended,80,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Bryan Bailey based on assessment metrics.,Secondary screening,2024-01-02 18:13:00
+255,255,Recommended,80,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Roger Allen based on assessment metrics.,Secondary screening,2024-05-21 18:12:00
+256,256,Neutral,81,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Scott Ward based on assessment metrics.,Move to final,2024-02-22 16:13:00
+257,257,Recommended,65,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Sean Evans based on assessment metrics.,Secondary screening,2024-02-03 19:57:00
+258,258,Not Recommended,75,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Michelle Long based on assessment metrics.,Secondary screening,2024-02-20 12:32:00
+259,259,Neutral,68,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Roger Perry based on assessment metrics.,Secondary screening,2024-02-01 11:51:00
+260,260,Recommended,99,Key skills identified: Communication.,None,Agent summary for Denise Pascual based on assessment metrics.,Move to final,2024-01-15 11:31:00
+261,261,Highly Recommended,70,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Barbara Ross based on assessment metrics.,Secondary screening,2024-05-08 17:38:00
+262,262,Highly Recommended,85,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Justin Evans based on assessment metrics.,Move to final,2024-03-30 18:19:00
+263,263,Not Recommended,68,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Joshua Watson based on assessment metrics.,Secondary screening,2024-03-19 15:17:00
+264,264,Neutral,70,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Donna Wright based on assessment metrics.,Secondary screening,2024-03-06 10:32:00
+265,265,Recommended,62,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Kenneth Romero based on assessment metrics.,Secondary screening,2024-03-16 12:26:00
+266,266,Not Recommended,98,Key skills identified: Problem Solving.,None,Agent summary for Dylan Mendoza based on assessment metrics.,Move to final,2024-05-26 09:37:00
+267,267,Highly Recommended,88,Key skills identified: Adaptability.,None,Agent summary for Justin James based on assessment metrics.,Move to final,2024-01-22 18:53:00
+268,268,Recommended,86,Key skills identified: Teamwork.,None,Agent summary for Teresa Herrera based on assessment metrics.,Move to final,2024-05-28 17:09:00
+269,269,Highly Recommended,87,Key skills identified: Problem Solving.,None,Agent summary for Aaron Baker based on assessment metrics.,Move to final,2024-02-29 19:11:00
+270,270,Highly Recommended,60,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Nathan Price based on assessment metrics.,Secondary screening,2024-01-15 13:16:00
+271,271,Not Recommended,77,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Linda Peterson based on assessment metrics.,Secondary screening,2024-04-02 18:00:00
+272,272,Neutral,74,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Raymond Bell based on assessment metrics.,Secondary screening,2024-04-27 10:12:00
+273,273,Neutral,70,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Susan Rodriguez based on assessment metrics.,Secondary screening,2024-01-16 10:31:00
+274,274,Recommended,93,Key skills identified: Problem Solving.,None,Agent summary for Gary Edwards based on assessment metrics.,Move to final,2024-02-29 13:49:00
+275,275,Neutral,75,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Noah Gutierrez based on assessment metrics.,Secondary screening,2024-05-07 10:28:00
+276,276,Neutral,76,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Bruce Gonzales based on assessment metrics.,Secondary screening,2024-05-21 15:36:00
+277,277,Neutral,61,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Linda Parker based on assessment metrics.,Secondary screening,2024-04-09 17:25:00
+278,278,Not Recommended,82,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Austin Patterson based on assessment metrics.,Move to final,2024-01-17 16:22:00
+279,279,Not Recommended,72,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Juan Davis based on assessment metrics.,Secondary screening,2024-01-20 13:15:00
+280,280,Neutral,73,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Harold Diaz based on assessment metrics.,Secondary screening,2024-03-08 10:38:00
+281,281,Recommended,82,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Paul Patterson based on assessment metrics.,Move to final,2024-01-26 15:36:00
+282,282,Not Recommended,69,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Doris Walker based on assessment metrics.,Secondary screening,2024-05-15 11:21:00
+283,283,Highly Recommended,91,Key skills identified: Teamwork.,None,Agent summary for Ashley Ward based on assessment metrics.,Move to final,2024-01-16 14:20:00
+284,284,Highly Recommended,96,Key skills identified: Teamwork.,None,Agent summary for Jason Gutierrez based on assessment metrics.,Move to final,2024-01-08 14:38:00
+285,285,Highly Recommended,76,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Roger Gonzalez based on assessment metrics.,Secondary screening,2024-03-09 09:54:00
+286,286,Not Recommended,90,Key skills identified: Teamwork.,None,Agent summary for Kayla Cooper based on assessment metrics.,Move to final,2024-04-28 17:47:00
+287,287,Recommended,84,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Kenneth Romero based on assessment metrics.,Move to final,2024-02-13 16:55:00
+288,288,Neutral,71,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Margaret Ortiz based on assessment metrics.,Secondary screening,2024-05-12 17:34:00
+289,289,Not Recommended,72,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Carol Bell based on assessment metrics.,Secondary screening,2024-05-07 10:34:00
+290,290,Recommended,86,Key skills identified: Problem Solving.,None,Agent summary for Angela Carter based on assessment metrics.,Move to final,2024-05-25 10:16:00
+291,291,Recommended,75,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Alexis Reyes based on assessment metrics.,Secondary screening,2024-04-06 10:57:00
+292,292,Not Recommended,78,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Helen Reed based on assessment metrics.,Secondary screening,2024-02-26 15:39:00
+293,293,Not Recommended,71,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Angela White based on assessment metrics.,Secondary screening,2024-03-27 17:14:00
+294,294,Recommended,61,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Douglas Richardson based on assessment metrics.,Secondary screening,2024-02-19 12:41:00
+295,295,Neutral,94,Key skills identified: Teamwork.,None,Agent summary for Henry Reynolds based on assessment metrics.,Move to final,2024-05-31 14:34:00
+296,296,Highly Recommended,73,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Laura Watson based on assessment metrics.,Secondary screening,2024-04-30 12:39:00
+297,297,Recommended,96,Key skills identified: Problem Solving.,None,Agent summary for David Griffin based on assessment metrics.,Move to final,2024-02-18 15:24:00
+298,298,Highly Recommended,71,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Ronald Roberts based on assessment metrics.,Secondary screening,2024-04-10 18:34:00
+299,299,Highly Recommended,82,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Henry Moore based on assessment metrics.,Move to final,2024-01-08 16:22:00
+300,300,Highly Recommended,90,Key skills identified: Teamwork.,None,Agent summary for Wayne Robinson based on assessment metrics.,Move to final,2024-04-27 14:55:00
+301,301,Neutral,93,Key skills identified: Teamwork.,None,Agent summary for Lawrence Parker based on assessment metrics.,Move to final,2024-01-31 15:50:00
+302,302,Recommended,78,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Eric Simpson based on assessment metrics.,Secondary screening,2024-03-10 09:46:00
+303,303,Neutral,84,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Mary Cook based on assessment metrics.,Move to final,2024-01-03 17:08:00
+304,304,Neutral,83,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Donald Simpson based on assessment metrics.,Move to final,2024-03-15 11:20:00
+305,305,Not Recommended,83,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Joshua Brown based on assessment metrics.,Move to final,2024-03-23 12:52:00
+306,306,Not Recommended,60,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Marilyn Martin based on assessment metrics.,Secondary screening,2024-03-03 16:58:00
+307,307,Recommended,79,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Andrew Edwards based on assessment metrics.,Secondary screening,2024-03-08 11:47:00
+308,308,Highly Recommended,65,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Terry Ross based on assessment metrics.,Secondary screening,2024-03-27 10:30:00
+309,309,Neutral,81,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Raymond Gibson based on assessment metrics.,Move to final,2024-02-29 18:19:00
+310,310,Neutral,94,Key skills identified: Problem Solving.,None,Agent summary for Betty Adams based on assessment metrics.,Move to final,2024-05-17 12:15:00
+311,311,Not Recommended,73,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Frank Butler based on assessment metrics.,Secondary screening,2024-05-19 15:41:00
+312,312,Not Recommended,92,Key skills identified: Teamwork.,None,Agent summary for Brenda Mitchell based on assessment metrics.,Move to final,2024-02-16 14:35:00
+313,313,Neutral,86,Key skills identified: Teamwork.,None,Agent summary for Joshua Perry based on assessment metrics.,Move to final,2024-03-15 12:51:00
+314,314,Neutral,83,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Jeffrey Williams based on assessment metrics.,Move to final,2024-03-31 13:09:00
+315,315,Neutral,79,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Steven Ross based on assessment metrics.,Secondary screening,2024-03-01 13:22:00
+316,316,Neutral,88,Key skills identified: Teamwork.,None,Agent summary for Stephanie Griffin based on assessment metrics.,Move to final,2024-04-15 16:50:00
+317,317,Highly Recommended,76,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Charles Roberts based on assessment metrics.,Secondary screening,2024-01-29 12:48:00
+318,318,Highly Recommended,87,Key skills identified: Communication.,None,Agent summary for Joseph Morales based on assessment metrics.,Move to final,2024-01-28 10:54:00
+319,319,Highly Recommended,88,Key skills identified: Teamwork.,None,Agent summary for Teresa Jackson based on assessment metrics.,Move to final,2024-02-25 12:51:00
+320,320,Highly Recommended,92,Key skills identified: Problem Solving.,None,Agent summary for Jane Morales based on assessment metrics.,Move to final,2024-02-26 18:35:00
+321,321,Recommended,62,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Steven Lee based on assessment metrics.,Secondary screening,2024-03-03 15:48:00
+322,322,Not Recommended,63,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Deborah Reynolds based on assessment metrics.,Secondary screening,2024-05-01 20:15:00
+323,323,Recommended,75,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jessica Simmons based on assessment metrics.,Secondary screening,2024-05-23 10:40:00
+324,324,Not Recommended,79,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Rose Rogers based on assessment metrics.,Secondary screening,2024-05-09 19:24:00
+325,325,Highly Recommended,64,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Emma Wallace based on assessment metrics.,Secondary screening,2024-02-07 20:06:00
+326,326,Neutral,87,Key skills identified: Adaptability.,None,Agent summary for Scott Young based on assessment metrics.,Move to final,2024-05-21 16:21:00
+327,327,Not Recommended,63,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Kathleen Moore based on assessment metrics.,Secondary screening,2024-03-20 15:03:00
+328,328,Highly Recommended,99,Key skills identified: Problem Solving.,None,Agent summary for Jack Patel based on assessment metrics.,Move to final,2024-03-11 11:11:00
+329,329,Not Recommended,62,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Kayla Jones based on assessment metrics.,Secondary screening,2024-04-14 11:49:00
+330,330,Recommended,74,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Lawrence Wright based on assessment metrics.,Secondary screening,2024-03-03 15:58:00
+331,331,Not Recommended,84,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Kevin Diaz based on assessment metrics.,Move to final,2024-04-30 11:16:00
+332,332,Not Recommended,79,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Danielle Stewart based on assessment metrics.,Secondary screening,2024-04-03 17:12:00
+333,333,Neutral,67,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Sharon Morris based on assessment metrics.,Secondary screening,2024-03-22 13:07:00
+334,334,Recommended,64,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Scott Jimenez based on assessment metrics.,Secondary screening,2024-05-06 19:16:00
+335,335,Highly Recommended,69,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for David Barnes based on assessment metrics.,Secondary screening,2024-02-28 10:00:00
+336,336,Neutral,69,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Brenda Robinson based on assessment metrics.,Secondary screening,2024-02-10 10:47:00
+337,337,Recommended,90,Key skills identified: Problem Solving.,None,Agent summary for Beverly Diaz based on assessment metrics.,Move to final,2024-05-27 19:25:00
+338,338,Highly Recommended,64,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Kelly Rogers based on assessment metrics.,Secondary screening,2024-05-14 15:58:00
+339,339,Not Recommended,74,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Amanda Kim based on assessment metrics.,Secondary screening,2024-01-14 15:01:00
+340,340,Not Recommended,80,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for David Mitchell based on assessment metrics.,Secondary screening,2024-03-07 09:13:00
+341,341,Recommended,68,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Aaron Garcia based on assessment metrics.,Secondary screening,2024-02-19 13:46:00
+342,342,Recommended,82,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Jack Simmons based on assessment metrics.,Move to final,2024-05-17 18:32:00
+343,343,Recommended,76,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Frank Long based on assessment metrics.,Secondary screening,2024-05-12 13:18:00
+344,344,Not Recommended,90,Key skills identified: Adaptability.,None,Agent summary for Diana Romero based on assessment metrics.,Move to final,2024-03-08 12:30:00
+345,345,Recommended,79,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Peter Stewart based on assessment metrics.,Secondary screening,2024-05-29 14:03:00
+346,346,Highly Recommended,70,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Anna Adams based on assessment metrics.,Secondary screening,2024-06-04 17:23:00
+347,347,Neutral,81,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Lisa Ellis based on assessment metrics.,Move to final,2024-01-23 10:58:00
+348,348,Highly Recommended,95,Key skills identified: Teamwork.,None,Agent summary for Thomas Alvarez based on assessment metrics.,Move to final,2024-04-09 09:42:00
+349,349,Not Recommended,92,Key skills identified: Communication.,None,Agent summary for Barbara Ramos based on assessment metrics.,Move to final,2024-01-19 16:05:00
+350,350,Not Recommended,69,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Carl Baker based on assessment metrics.,Secondary screening,2024-03-11 19:02:00
+351,351,Highly Recommended,95,Key skills identified: Teamwork.,None,Agent summary for Nicole Cook based on assessment metrics.,Move to final,2024-03-15 17:15:00
+352,352,Highly Recommended,69,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Larry Morgan based on assessment metrics.,Secondary screening,2024-02-21 12:54:00
+353,353,Not Recommended,80,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Steven Martin based on assessment metrics.,Secondary screening,2024-02-22 11:48:00
+354,354,Not Recommended,78,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Carol James based on assessment metrics.,Secondary screening,2024-05-25 11:58:00
+355,355,Recommended,88,Key skills identified: Problem Solving.,None,Agent summary for Larry Phillips based on assessment metrics.,Move to final,2024-03-16 11:17:00
+356,356,Not Recommended,89,Key skills identified: Adaptability.,None,Agent summary for Peter Diaz based on assessment metrics.,Move to final,2024-02-01 14:22:00
+357,357,Neutral,96,Key skills identified: Communication.,None,Agent summary for Daniel Sanders based on assessment metrics.,Move to final,2024-05-14 18:25:00
+358,358,Neutral,86,Key skills identified: Teamwork.,None,Agent summary for Dylan Torres based on assessment metrics.,Move to final,2024-01-03 12:52:00
+359,359,Neutral,65,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Michelle Morris based on assessment metrics.,Secondary screening,2024-04-26 17:30:00
+360,360,Highly Recommended,84,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Zachary Brown based on assessment metrics.,Move to final,2024-01-27 15:03:00
+361,361,Not Recommended,95,Key skills identified: Teamwork.,None,Agent summary for Lauren Smith based on assessment metrics.,Move to final,2024-02-10 10:40:00
+362,362,Neutral,89,Key skills identified: Adaptability.,None,Agent summary for Edward Walker based on assessment metrics.,Move to final,2024-01-31 12:37:00
+363,363,Not Recommended,71,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Amanda Jones based on assessment metrics.,Secondary screening,2024-04-04 14:32:00
+364,364,Recommended,80,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Thomas Castillo based on assessment metrics.,Secondary screening,2024-01-19 09:21:00
+365,365,Highly Recommended,70,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Ronald Allen based on assessment metrics.,Secondary screening,2024-03-03 17:06:00
+366,366,Neutral,74,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Deborah Pascual based on assessment metrics.,Secondary screening,2024-05-08 12:44:00
+367,367,Neutral,60,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Sharon Jordan based on assessment metrics.,Secondary screening,2024-01-04 16:02:00
+368,368,Neutral,99,Key skills identified: Teamwork.,None,Agent summary for Jane Wood based on assessment metrics.,Move to final,2024-02-14 16:39:00
+369,369,Highly Recommended,82,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Brenda Robinson based on assessment metrics.,Move to final,2024-03-02 17:20:00
+370,370,Recommended,65,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Diana Nelson based on assessment metrics.,Secondary screening,2024-04-14 17:36:00
+371,371,Highly Recommended,87,Key skills identified: Problem Solving.,None,Agent summary for Bryan Baker based on assessment metrics.,Move to final,2024-01-17 11:48:00
+372,372,Recommended,63,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Alexis Simpson based on assessment metrics.,Secondary screening,2024-04-25 09:14:00
+373,373,Recommended,95,Key skills identified: Adaptability.,None,Agent summary for Gregory Stewart based on assessment metrics.,Move to final,2024-04-18 17:40:00
+374,374,Neutral,88,Key skills identified: Communication.,None,Agent summary for Daniel Chavez based on assessment metrics.,Move to final,2024-02-16 13:45:00
+375,375,Neutral,62,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Margaret Peterson based on assessment metrics.,Secondary screening,2024-04-21 16:47:00
+376,376,Recommended,69,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Michael Robinson based on assessment metrics.,Secondary screening,2024-02-06 11:02:00
+377,377,Highly Recommended,60,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Austin Sanders based on assessment metrics.,Secondary screening,2024-01-19 13:52:00
+378,378,Neutral,79,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Tyler Alvarez based on assessment metrics.,Secondary screening,2024-04-02 10:25:00
+379,379,Recommended,97,Key skills identified: Adaptability.,None,Agent summary for Tyler Garcia based on assessment metrics.,Move to final,2024-02-28 10:17:00
+380,380,Not Recommended,79,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Justin Hughes based on assessment metrics.,Secondary screening,2024-03-31 15:04:00
+381,381,Neutral,74,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Keith Howard based on assessment metrics.,Secondary screening,2024-04-17 19:16:00
+382,382,Neutral,69,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Shirley Scott based on assessment metrics.,Secondary screening,2024-04-23 11:20:00
+383,383,Neutral,91,Key skills identified: Teamwork.,None,Agent summary for Jerry Moreno based on assessment metrics.,Move to final,2024-05-24 16:08:00
+384,384,Not Recommended,95,Key skills identified: Adaptability.,None,Agent summary for Laura Wilson based on assessment metrics.,Move to final,2024-03-27 08:58:00
+385,385,Not Recommended,88,Key skills identified: Communication.,None,Agent summary for Jennifer Gonzalez based on assessment metrics.,Move to final,2024-05-06 12:41:00
+386,386,Not Recommended,79,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Jordan Lopez based on assessment metrics.,Secondary screening,2024-03-09 15:19:00
+387,387,Highly Recommended,88,Key skills identified: Communication.,None,Agent summary for Laura Adams based on assessment metrics.,Move to final,2024-03-16 14:07:00
+388,388,Recommended,70,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Andrew Simmons based on assessment metrics.,Secondary screening,2024-06-01 13:26:00
+389,389,Not Recommended,70,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Susan Richardson based on assessment metrics.,Secondary screening,2024-04-20 15:39:00
+390,390,Recommended,89,Key skills identified: Communication.,None,Agent summary for Patricia Clark based on assessment metrics.,Move to final,2024-03-18 19:47:00
+391,391,Not Recommended,67,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for George Roberts based on assessment metrics.,Secondary screening,2024-05-02 11:38:00
+392,392,Neutral,89,Key skills identified: Problem Solving.,None,Agent summary for Brenda Edwards based on assessment metrics.,Move to final,2024-01-27 15:16:00
+393,393,Not Recommended,98,Key skills identified: Teamwork.,None,Agent summary for Billy Gutierrez based on assessment metrics.,Move to final,2024-02-16 14:02:00
+394,394,Not Recommended,93,Key skills identified: Communication.,None,Agent summary for David Mendoza based on assessment metrics.,Move to final,2024-04-06 18:04:00
+395,395,Recommended,96,Key skills identified: Communication.,None,Agent summary for John Tran based on assessment metrics.,Move to final,2024-01-17 12:17:00
+396,396,Highly Recommended,96,Key skills identified: Problem Solving.,None,Agent summary for Arthur Campbell based on assessment metrics.,Move to final,2024-05-22 11:56:00
+397,397,Highly Recommended,63,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Brenda Bell based on assessment metrics.,Secondary screening,2024-01-10 09:38:00
+398,398,Recommended,90,Key skills identified: Communication.,None,Agent summary for James Cook based on assessment metrics.,Move to final,2024-02-04 17:38:00
+399,399,Recommended,69,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Denise Ramirez based on assessment metrics.,Secondary screening,2024-05-30 19:30:00
+400,400,Recommended,73,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Michael Snyder based on assessment metrics.,Secondary screening,2024-03-28 19:38:00
+401,401,Not Recommended,77,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Ethan Castillo based on assessment metrics.,Secondary screening,2024-02-28 14:02:00
+402,402,Neutral,72,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Marilyn Evans based on assessment metrics.,Secondary screening,2024-03-02 10:36:00
+403,403,Recommended,96,Key skills identified: Adaptability.,None,Agent summary for Louis Ramirez based on assessment metrics.,Move to final,2024-02-14 18:58:00
+404,404,Neutral,64,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Angela Simmons based on assessment metrics.,Secondary screening,2024-04-01 12:06:00
+405,405,Recommended,89,Key skills identified: Adaptability.,None,Agent summary for Emma Pascual based on assessment metrics.,Move to final,2024-02-26 14:22:00
+406,406,Neutral,75,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jack Gonzales based on assessment metrics.,Secondary screening,2024-01-18 13:10:00
+407,407,Recommended,83,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Cynthia Barnes based on assessment metrics.,Move to final,2024-04-12 10:57:00
+408,408,Recommended,67,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Nathan Collins based on assessment metrics.,Secondary screening,2024-05-15 09:44:00
+409,409,Highly Recommended,92,Key skills identified: Teamwork.,None,Agent summary for Karen Castillo based on assessment metrics.,Move to final,2024-04-02 17:17:00
+410,410,Neutral,62,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Danielle Carter based on assessment metrics.,Secondary screening,2024-04-13 10:34:00
+411,411,Highly Recommended,99,Key skills identified: Adaptability.,None,Agent summary for Jason Patterson based on assessment metrics.,Move to final,2024-05-03 12:03:00
+412,412,Neutral,67,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Sean Thompson based on assessment metrics.,Secondary screening,2024-04-23 13:20:00
+413,413,Recommended,69,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Roger Watson based on assessment metrics.,Secondary screening,2024-02-06 18:57:00
+414,414,Not Recommended,62,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Dorothy Griffin based on assessment metrics.,Secondary screening,2024-02-01 13:00:00
+415,415,Neutral,82,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Gregory Kelly based on assessment metrics.,Move to final,2024-01-31 20:18:00
+416,416,Neutral,91,Key skills identified: Communication.,None,Agent summary for Brandon Alexander based on assessment metrics.,Move to final,2024-01-23 14:30:00
+417,417,Neutral,63,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Margaret Myers based on assessment metrics.,Secondary screening,2024-03-05 19:03:00
+418,418,Not Recommended,87,Key skills identified: Problem Solving.,None,Agent summary for Alexis Johnson based on assessment metrics.,Move to final,2024-05-10 11:47:00
+419,419,Recommended,94,Key skills identified: Communication.,None,Agent summary for Tiffany Roberts based on assessment metrics.,Move to final,2024-03-29 13:02:00
+420,420,Neutral,97,Key skills identified: Adaptability.,None,Agent summary for Tyler Alvarez based on assessment metrics.,Move to final,2024-05-29 11:00:00
+421,421,Highly Recommended,71,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Richard Chavez based on assessment metrics.,Secondary screening,2024-03-12 11:13:00
+422,422,Not Recommended,95,Key skills identified: Adaptability.,None,Agent summary for Jane Castillo based on assessment metrics.,Move to final,2024-05-04 14:15:00
+423,423,Neutral,67,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Alexis Gonzales based on assessment metrics.,Secondary screening,2024-01-27 18:51:00
+424,424,Neutral,85,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Joseph Green based on assessment metrics.,Move to final,2024-04-22 14:43:00
+425,425,Recommended,86,Key skills identified: Adaptability.,None,Agent summary for Justin Ross based on assessment metrics.,Move to final,2024-04-28 14:08:00
+426,426,Highly Recommended,96,Key skills identified: Communication.,None,Agent summary for Kathleen Long based on assessment metrics.,Move to final,2024-03-07 19:16:00
+427,427,Highly Recommended,70,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Karen Howard based on assessment metrics.,Secondary screening,2024-03-09 13:12:00
+428,428,Not Recommended,89,Key skills identified: Adaptability.,None,Agent summary for Tyler Roberts based on assessment metrics.,Move to final,2024-04-23 14:43:00
+429,429,Highly Recommended,85,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Stephanie Flores based on assessment metrics.,Move to final,2024-03-22 10:46:00
+430,430,Recommended,81,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Elizabeth Fisher based on assessment metrics.,Move to final,2024-02-16 15:28:00
+431,431,Highly Recommended,81,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Danielle Hernandez based on assessment metrics.,Move to final,2024-01-06 20:15:00
+432,432,Highly Recommended,63,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Michelle Martin based on assessment metrics.,Secondary screening,2024-04-26 09:43:00
+433,433,Recommended,78,Key skills identified: Adaptability.,Concern: Pacing.,Agent summary for Nathan Ellis based on assessment metrics.,Secondary screening,2024-05-18 12:06:00
+434,434,Recommended,63,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Donald Sanders based on assessment metrics.,Secondary screening,2024-04-10 12:33:00
+435,435,Highly Recommended,99,Key skills identified: Communication.,None,Agent summary for Melissa Morgan based on assessment metrics.,Move to final,2024-01-25 08:24:00
+436,436,Highly Recommended,83,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Kayla Torres based on assessment metrics.,Move to final,2024-02-12 14:38:00
+437,437,Recommended,67,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Linda West based on assessment metrics.,Secondary screening,2024-02-19 13:23:00
+438,438,Highly Recommended,78,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Barbara Bell based on assessment metrics.,Secondary screening,2024-03-13 18:07:00
+439,439,Recommended,70,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Nathan Jordan based on assessment metrics.,Secondary screening,2024-04-25 20:29:00
+440,440,Recommended,60,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Pamela Reed based on assessment metrics.,Secondary screening,2024-03-26 13:51:00
+441,441,Highly Recommended,90,Key skills identified: Adaptability.,None,Agent summary for Amy Chavez based on assessment metrics.,Move to final,2024-03-13 17:55:00
+442,442,Highly Recommended,98,Key skills identified: Adaptability.,None,Agent summary for Jason Morales based on assessment metrics.,Move to final,2024-04-12 13:51:00
+443,443,Highly Recommended,87,Key skills identified: Problem Solving.,None,Agent summary for Peter Chavez based on assessment metrics.,Move to final,2024-01-26 17:42:00
+444,444,Recommended,83,Key skills identified: Communication.,Concern: Pacing.,Agent summary for Patrick Nguyen based on assessment metrics.,Move to final,2024-04-23 13:04:00
+445,445,Neutral,66,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Brian Tran based on assessment metrics.,Secondary screening,2024-05-20 17:19:00
+446,446,Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Lisa Ortiz based on assessment metrics.,Move to final,2024-01-07 18:59:00
+447,447,Recommended,96,Key skills identified: Teamwork.,None,Agent summary for Jack Thompson based on assessment metrics.,Move to final,2024-01-25 14:48:00
+448,448,Recommended,79,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Gregory Jimenez based on assessment metrics.,Secondary screening,2024-04-25 15:54:00
+449,449,Neutral,97,Key skills identified: Teamwork.,None,Agent summary for Melissa Russell based on assessment metrics.,Move to final,2024-05-13 18:06:00
+450,450,Not Recommended,83,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Joshua Cruz based on assessment metrics.,Move to final,2024-01-15 17:56:00
+451,451,Highly Recommended,69,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jonathan Russell based on assessment metrics.,Secondary screening,2024-03-11 18:30:00
+452,452,Recommended,88,Key skills identified: Adaptability.,None,Agent summary for Stephanie Gutierrez based on assessment metrics.,Move to final,2024-03-23 13:54:00
+453,453,Not Recommended,84,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Eric Reyes based on assessment metrics.,Move to final,2024-05-14 12:13:00
+454,454,Recommended,70,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Dylan Allen based on assessment metrics.,Secondary screening,2024-01-27 17:51:00
+455,455,Neutral,86,Key skills identified: Problem Solving.,None,Agent summary for Jessica Carter based on assessment metrics.,Move to final,2024-06-01 18:24:00
+456,456,Neutral,83,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Zachary White based on assessment metrics.,Move to final,2024-05-20 12:41:00
+457,457,Highly Recommended,88,Key skills identified: Communication.,None,Agent summary for Nathan Thomas based on assessment metrics.,Move to final,2024-01-19 13:54:00
+458,458,Neutral,94,Key skills identified: Teamwork.,None,Agent summary for Brittany Graham based on assessment metrics.,Move to final,2024-01-21 12:58:00
+459,459,Neutral,76,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Kayla Howard based on assessment metrics.,Secondary screening,2024-05-23 20:15:00
+460,460,Recommended,87,Key skills identified: Communication.,None,Agent summary for Juan Rogers based on assessment metrics.,Move to final,2024-04-27 19:44:00
+461,461,Not Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Kenneth Scott based on assessment metrics.,Move to final,2024-04-18 13:26:00
+462,462,Recommended,94,Key skills identified: Adaptability.,None,Agent summary for Arthur Lopez based on assessment metrics.,Move to final,2024-04-27 09:14:00
+463,463,Highly Recommended,82,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Stephen Gibson based on assessment metrics.,Move to final,2024-02-25 15:35:00
+464,464,Highly Recommended,82,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Kathleen Lee based on assessment metrics.,Move to final,2024-01-15 20:12:00
+465,465,Not Recommended,95,Key skills identified: Teamwork.,None,Agent summary for Jose Vasquez based on assessment metrics.,Move to final,2024-05-07 13:33:00
+466,466,Not Recommended,63,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for James Cox based on assessment metrics.,Secondary screening,2024-01-28 13:27:00
+467,467,Recommended,82,Key skills identified: Problem Solving.,Concern: Verbosity.,Agent summary for Dylan Harris based on assessment metrics.,Move to final,2024-02-06 13:19:00
+468,468,Highly Recommended,99,Key skills identified: Adaptability.,None,Agent summary for Nathan Bryant based on assessment metrics.,Move to final,2024-02-16 14:08:00
+469,469,Highly Recommended,81,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Natalie Hughes based on assessment metrics.,Move to final,2024-05-17 13:44:00
+470,470,Neutral,60,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Lauren Sullivan based on assessment metrics.,Secondary screening,2024-04-04 14:26:00
+471,471,Recommended,86,Key skills identified: Communication.,None,Agent summary for Patrick Adams based on assessment metrics.,Move to final,2024-04-16 09:54:00
+472,472,Not Recommended,98,Key skills identified: Problem Solving.,None,Agent summary for Stephen Powell based on assessment metrics.,Move to final,2024-03-07 15:34:00
+473,473,Neutral,89,Key skills identified: Teamwork.,None,Agent summary for Kimberly Brown based on assessment metrics.,Move to final,2024-05-01 13:03:00
+474,474,Highly Recommended,81,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Gerald Garcia based on assessment metrics.,Move to final,2024-05-18 09:46:00
+475,475,Recommended,98,Key skills identified: Communication.,None,Agent summary for Patricia Powell based on assessment metrics.,Move to final,2024-05-08 13:30:00
+476,476,Not Recommended,67,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Jessica Williams based on assessment metrics.,Secondary screening,2024-05-08 11:48:00
+477,477,Highly Recommended,78,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for Tyler Snyder based on assessment metrics.,Secondary screening,2024-02-08 12:21:00
+478,478,Recommended,83,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Andrew Jimenez based on assessment metrics.,Move to final,2024-02-01 09:49:00
+479,479,Recommended,76,Key skills identified: Problem Solving.,Concern: Consistency.,Agent summary for William Ruiz based on assessment metrics.,Secondary screening,2024-02-21 17:30:00
+480,480,Recommended,95,Key skills identified: Communication.,None,Agent summary for Jeremy Jenkins based on assessment metrics.,Move to final,2024-04-29 18:14:00
+481,481,Not Recommended,83,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Roger Gomez based on assessment metrics.,Move to final,2024-05-12 12:21:00
+482,482,Highly Recommended,97,Key skills identified: Teamwork.,None,Agent summary for Gregory Thompson based on assessment metrics.,Move to final,2024-02-20 10:50:00
+483,483,Neutral,81,Key skills identified: Adaptability.,Concern: Consistency.,Agent summary for Stephen Clark based on assessment metrics.,Move to final,2024-02-11 11:10:00
+484,484,Neutral,81,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Anna Ruiz based on assessment metrics.,Move to final,2024-05-25 16:42:00
+485,485,Neutral,67,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Marilyn Smith based on assessment metrics.,Secondary screening,2024-03-30 13:03:00
+486,486,Neutral,93,Key skills identified: Communication.,None,Agent summary for Jordan Perry based on assessment metrics.,Move to final,2024-01-11 14:18:00
+487,487,Neutral,80,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Danielle King based on assessment metrics.,Secondary screening,2024-04-19 16:37:00
+488,488,Highly Recommended,62,Key skills identified: Teamwork.,Concern: Consistency.,Agent summary for Jesse Castillo based on assessment metrics.,Secondary screening,2024-03-11 18:23:00
+489,489,Highly Recommended,72,Key skills identified: Adaptability.,Concern: Verbosity.,Agent summary for Helen Gonzalez based on assessment metrics.,Secondary screening,2024-03-03 12:42:00
+490,490,Neutral,95,Key skills identified: Adaptability.,None,Agent summary for Carl Lopez based on assessment metrics.,Move to final,2024-05-24 17:19:00
+491,491,Neutral,77,Key skills identified: Teamwork.,Concern: Verbosity.,Agent summary for Kayla Reynolds based on assessment metrics.,Secondary screening,2024-01-20 17:37:00
+492,492,Recommended,83,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Ethan Hughes based on assessment metrics.,Move to final,2024-03-10 17:45:00
+493,493,Recommended,75,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Doris Price based on assessment metrics.,Secondary screening,2024-03-04 14:50:00
+494,494,Neutral,85,Key skills identified: Teamwork.,Concern: Pacing.,Agent summary for Denise Griffin based on assessment metrics.,Move to final,2024-03-03 13:10:00
+495,495,Recommended,77,Key skills identified: Communication.,Concern: Pacing.,Agent summary for George Diaz based on assessment metrics.,Secondary screening,2024-02-20 11:12:00
+496,496,Highly Recommended,91,Key skills identified: Teamwork.,None,Agent summary for Jordan Thompson based on assessment metrics.,Move to final,2024-03-16 15:34:00
+497,497,Not Recommended,71,Key skills identified: Communication.,Concern: Pacing.,Agent summary for John Diaz based on assessment metrics.,Secondary screening,2024-01-09 11:55:00
+498,498,Recommended,78,Key skills identified: Communication.,Concern: Consistency.,Agent summary for Sandra Pascual based on assessment metrics.,Secondary screening,2024-04-28 11:26:00
+499,499,Highly Recommended,69,Key skills identified: Communication.,Concern: Verbosity.,Agent summary for Julia Mendoza based on assessment metrics.,Secondary screening,2024-01-14 19:16:00
+500,500,Highly Recommended,82,Key skills identified: Problem Solving.,Concern: Pacing.,Agent summary for Jordan Hill based on assessment metrics.,Move to final,2024-05-06 19:16:00
