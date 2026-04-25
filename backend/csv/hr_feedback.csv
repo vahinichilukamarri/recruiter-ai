@@ -1,0 +1,26 @@
+id,candidate_id,agent_output_id,hr_name,rating,decision_alignment,useful_output,bias_flagged,feedback_comment,corrected_recommendation,reviewed_at
+1,1,1,HR_2,1,True,False,False,Incorrect recommendation,Reject,2026-04-25 06:30:57.128479
+2,2,2,HR_5,4,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+3,3,3,HR_1,4,True,True,True,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+4,4,4,HR_5,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+5,5,5,HR_1,2,False,False,False,Needs improvement in decision logic,Hold,2026-04-25 06:30:57.128479
+6,6,6,HR_2,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+7,7,7,HR_1,4,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+8,8,8,HR_5,1,True,False,False,Incorrect recommendation,Reject,2026-04-25 06:30:57.128479
+9,9,9,HR_5,5,True,True,False,AI recommendation is accurate and useful,Hold,2026-04-25 06:30:57.128479
+10,10,10,HR_5,4,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+11,11,11,HR_1,3,False,False,False,Partially correct recommendation,Reject,2026-04-25 06:30:57.128479
+12,12,12,HR_2,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+13,13,13,HR_3,4,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+14,14,14,HR_1,2,False,False,False,Needs improvement in decision logic,Reject,2026-04-25 06:30:57.128479
+15,15,15,HR_5,2,False,True,False,Needs improvement in decision logic,Hold,2026-04-25 06:30:57.128479
+16,16,16,HR_1,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+17,17,17,HR_1,2,False,True,False,Needs improvement in decision logic,Hire,2026-04-25 06:30:57.128479
+18,18,18,HR_3,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+19,19,19,HR_4,4,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+20,20,20,HR_5,2,False,False,False,Needs improvement in decision logic,Reject,2026-04-25 06:30:57.128479
+21,21,21,HR_5,5,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479
+22,22,22,HR_2,5,True,True,False,AI recommendation is accurate and useful,Hire,2026-04-25 06:30:57.128479
+23,23,23,HR_1,1,True,False,True,Incorrect recommendation,Hire,2026-04-25 06:30:57.128479
+24,24,24,HR_1,2,False,True,False,Needs improvement in decision logic,Hold,2026-04-25 06:30:57.128479
+25,25,25,HR_5,5,True,True,False,AI recommendation is accurate and useful,Reject,2026-04-25 06:30:57.128479

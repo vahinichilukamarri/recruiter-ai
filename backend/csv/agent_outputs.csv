@@ -1,0 +1,26 @@
+id,candidate_id,recommendation,confidence_score,strengths,concerns,summary,next_step,created_at
+1,1,Reject,60,Limited strengths observed,Low performance in assessment,Candidate scored 26.7% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+2,2,Reject,43,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+3,3,Reject,40,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+4,4,Strong Hire,88,Excellent technical and problem-solving skills,Minor improvement areas,Candidate scored 80.0% in assessment,Proceed to final interview,2026-04-25 06:29:13.841168
+5,5,Strong Hire,87,Excellent technical and problem-solving skills,Minor improvement areas,Candidate scored 80.0% in assessment,Proceed to final interview,2026-04-25 06:29:13.841168
+6,6,Hire,77,Good technical foundation,Needs improvement in some areas,Candidate scored 73.3% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+7,7,Reject,44,Limited strengths observed,Low performance in assessment,Candidate scored 33.3% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+8,8,Reject,43,Limited strengths observed,Low performance in assessment,Candidate scored 33.3% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+9,9,Hold,62,Basic understanding of concepts,Lacks consistency in performance,Candidate scored 46.7% in assessment,Keep for further evaluation,2026-04-25 06:29:13.841168
+10,10,Reject,58,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+11,11,Hold,73,Basic understanding of concepts,Lacks consistency in performance,Candidate scored 46.7% in assessment,Keep for further evaluation,2026-04-25 06:29:13.841168
+12,12,Hire,71,Good technical foundation,Needs improvement in some areas,Candidate scored 73.3% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+13,13,Reject,40,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+14,14,Hold,62,Basic understanding of concepts,Lacks consistency in performance,Candidate scored 46.7% in assessment,Keep for further evaluation,2026-04-25 06:29:13.841168
+15,15,Hire,76,Good technical foundation,Needs improvement in some areas,Candidate scored 66.7% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+16,16,Hire,77,Good technical foundation,Needs improvement in some areas,Candidate scored 60.0% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+17,17,Hold,60,Basic understanding of concepts,Lacks consistency in performance,Candidate scored 53.3% in assessment,Keep for further evaluation,2026-04-25 06:29:13.841168
+18,18,Hire,76,Good technical foundation,Needs improvement in some areas,Candidate scored 60.0% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+19,19,Strong Hire,93,Excellent technical and problem-solving skills,Minor improvement areas,Candidate scored 93.3% in assessment,Proceed to final interview,2026-04-25 06:29:13.841168
+20,20,Hold,67,Basic understanding of concepts,Lacks consistency in performance,Candidate scored 46.7% in assessment,Keep for further evaluation,2026-04-25 06:29:13.841168
+21,21,Reject,54,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168
+22,22,Hire,78,Good technical foundation,Needs improvement in some areas,Candidate scored 66.7% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+23,23,Strong Hire,80,Excellent technical and problem-solving skills,Minor improvement areas,Candidate scored 86.7% in assessment,Proceed to final interview,2026-04-25 06:29:13.841168
+24,24,Hire,75,Good technical foundation,Needs improvement in some areas,Candidate scored 66.7% in assessment,Proceed to technical interview,2026-04-25 06:29:13.841168
+25,25,Reject,53,Limited strengths observed,Low performance in assessment,Candidate scored 40.0% in assessment,Reject candidate,2026-04-25 06:29:13.841168

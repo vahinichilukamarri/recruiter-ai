@@ -1,0 +1,26 @@
+id,candidate_id,recruiter_name,final_decision,human_final_decision,decision_notes,decided_at
+1,1,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+2,2,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+3,3,Recruiter_3,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+4,4,Recruiter_3,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+5,5,Recruiter_1,Hold,True,Needs further evaluation,2026-04-25 06:29:51.476726
+6,6,Recruiter_1,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+7,7,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+8,8,Recruiter_3,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+9,9,Recruiter_1,Hold,True,Needs further evaluation,2026-04-25 06:29:51.476726
+10,10,Recruiter_3,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+11,11,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+12,12,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+13,13,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+14,14,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+15,15,Recruiter_2,Hold,True,Needs further evaluation,2026-04-25 06:29:51.476726
+16,16,Recruiter_1,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+17,17,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+18,18,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+19,19,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+20,20,Recruiter_1,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+21,21,Recruiter_3,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726
+22,22,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+23,23,Recruiter_2,Selected,True,Candidate meets hiring criteria,2026-04-25 06:29:51.476726
+24,24,Recruiter_3,Hold,True,Needs further evaluation,2026-04-25 06:29:51.476726
+25,25,Recruiter_2,Rejected,True,Does not meet requirements,2026-04-25 06:29:51.476726

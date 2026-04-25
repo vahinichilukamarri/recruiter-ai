@@ -1,0 +1,26 @@
+id,candidate_id,interviewer_name,interview_mode,scheduled_date,scheduled_time,status,meeting_link,notes,created_at
+1,1,Interviewer_2,Online,2026-04-26,13:00:00,Scheduled,https://meet.company.com/1,Auto scheduled interview,2026-04-25 06:28:31.112096
+2,2,Interviewer_5,Online,2026-05-01,10:00:00,In Progress,https://meet.company.com/2,Auto scheduled interview,2026-04-25 06:28:31.112096
+3,3,Interviewer_1,Online,2026-04-26,9:00:00,Cancelled,https://meet.company.com/3,Auto scheduled interview,2026-04-25 06:28:31.112096
+4,4,Interviewer_5,Online,2026-04-30,9:00:00,In Progress,https://meet.company.com/4,Auto scheduled interview,2026-04-25 06:28:31.112096
+5,5,Interviewer_5,Offline,2026-04-27,16:00:00,Cancelled,https://meet.company.com/5,Auto scheduled interview,2026-04-25 06:28:31.112096
+6,6,Interviewer_4,Offline,2026-05-02,11:00:00,Scheduled,https://meet.company.com/6,Auto scheduled interview,2026-04-25 06:28:31.112096
+7,7,Interviewer_3,Online,2026-04-27,12:00:00,Completed,https://meet.company.com/7,Auto scheduled interview,2026-04-25 06:28:31.112096
+8,8,Interviewer_3,Offline,2026-04-29,10:00:00,Scheduled,https://meet.company.com/8,Auto scheduled interview,2026-04-25 06:28:31.112096
+9,9,Interviewer_4,Hybrid,2026-05-02,9:00:00,Completed,https://meet.company.com/9,Auto scheduled interview,2026-04-25 06:28:31.112096
+10,10,Interviewer_5,Offline,2026-04-29,10:00:00,Scheduled,https://meet.company.com/10,Auto scheduled interview,2026-04-25 06:28:31.112096
+11,11,Interviewer_1,Online,2026-04-30,12:00:00,Completed,https://meet.company.com/11,Auto scheduled interview,2026-04-25 06:28:31.112096
+12,12,Interviewer_1,Online,2026-05-02,13:00:00,In Progress,https://meet.company.com/12,Auto scheduled interview,2026-04-25 06:28:31.112096
+13,13,Interviewer_4,Hybrid,2026-04-29,13:00:00,Scheduled,https://meet.company.com/13,Auto scheduled interview,2026-04-25 06:28:31.112096
+14,14,Interviewer_3,Online,2026-04-27,14:00:00,Completed,https://meet.company.com/14,Auto scheduled interview,2026-04-25 06:28:31.112096
+15,15,Interviewer_5,Hybrid,2026-05-01,10:00:00,Completed,https://meet.company.com/15,Auto scheduled interview,2026-04-25 06:28:31.112096
+16,16,Interviewer_2,Offline,2026-04-30,12:00:00,In Progress,https://meet.company.com/16,Auto scheduled interview,2026-04-25 06:28:31.112096
+17,17,Interviewer_2,Hybrid,2026-04-28,17:00:00,Cancelled,https://meet.company.com/17,Auto scheduled interview,2026-04-25 06:28:31.112096
+18,18,Interviewer_2,Online,2026-05-02,9:00:00,Completed,https://meet.company.com/18,Auto scheduled interview,2026-04-25 06:28:31.112096
+19,19,Interviewer_1,Online,2026-04-29,13:00:00,Completed,https://meet.company.com/19,Auto scheduled interview,2026-04-25 06:28:31.112096
+20,20,Interviewer_4,Hybrid,2026-04-27,16:00:00,Completed,https://meet.company.com/20,Auto scheduled interview,2026-04-25 06:28:31.112096
+21,21,Interviewer_2,Online,2026-04-27,13:00:00,Cancelled,https://meet.company.com/21,Auto scheduled interview,2026-04-25 06:28:31.112096
+22,22,Interviewer_5,Offline,2026-05-01,15:00:00,Completed,https://meet.company.com/22,Auto scheduled interview,2026-04-25 06:28:31.112096
+23,23,Interviewer_5,Offline,2026-04-27,11:00:00,Completed,https://meet.company.com/23,Auto scheduled interview,2026-04-25 06:28:31.112096
+24,24,Interviewer_1,Online,2026-05-02,9:00:00,Scheduled,https://meet.company.com/24,Auto scheduled interview,2026-04-25 06:28:31.112096
+25,25,Interviewer_5,Online,2026-05-02,15:00:00,In Progress,https://meet.company.com/25,Auto scheduled interview,2026-04-25 06:28:31.112096
